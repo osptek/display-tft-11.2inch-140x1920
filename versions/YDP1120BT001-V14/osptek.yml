@@ -1,0 +1,10 @@
+id: YDP1120BT001-V14
+category: displays
+size: "11.2"
+panel: tft
+resolution: 140x1920
+interface: [mipi]
+driver: SA77610-COG
+touch: CST3548
+outline: 28 x 311.3 x 6.17 mm
+active_area: 20.58 x 282.24 mm
